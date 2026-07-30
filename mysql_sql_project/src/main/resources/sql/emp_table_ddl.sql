@@ -27,7 +27,7 @@ create table emp(
                     name varchar(10) not null comment '姓名', -- 可变长度，最长10，非空
                     gender tinyint unsigned not null comment '性别，1 男；2 女', -- 无符号范围，非空
                     phone char(11) not null unique comment '手机号', -- 固定长度，长度11，非空，唯一
-                    jon tinyint unsigned comment '职位，1 主任；2 讲师； 3 学工主管；4 教研主管；5 咨询师 ', -- 无符号范围
+                    job tinyint unsigned comment '职位，1 主任；2 讲师； 3 学工主管；4 教研主管；5 咨询师 ', -- 无符号范围
                     salary int unsigned comment '薪资',-- 无符号范围
                     entry_date date comment '入职日期',
                     image varchar(255) comment '头像',-- 图片：存储访问路径，可变长度，最大值
