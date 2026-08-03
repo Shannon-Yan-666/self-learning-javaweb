@@ -9,6 +9,7 @@ JavaWeb自学成长仓库 | SpringBoot、Web后端基础练习案例
 - `springboot-web-01`：SpringBoot基础接口开发、前后端交互
 - `springboot_web_quickstart`：SpringBoot快速入门基础案例
 - `mysql_sql_project`：MySQL建表、数据库练习模块，DDL、DML、DQL练习SQL脚本、JDBC基础操作代码
+- `springboot-mybatis-quickstart`: SpringBoot整合MyBatis，使用注解、XML两种方式实现数据库CRUD
 
 ## ✅ 当前进度
 - [x] 项目初始化
@@ -19,6 +20,7 @@ JavaWeb自学成长仓库 | SpringBoot、Web后端基础练习案例
 - [x] JDBC完整开发流程：驱动加载、获取连接、执行SQL、关闭资源
 - [x] PreparedStatement预编译SQL，理解防范SQL注入原理
 - [x] ResultSet结果集遍历，数据库数据封装实体类
+- [x] SpringBoot整合MyBatis学习：掌握注解SQL、XML映射文件两种开发方式，完成用户CRUD
 
 ## ⚙ 环境与工具
 - JDK：Java 8+
@@ -37,6 +39,7 @@ JavaWeb自学成长仓库 | SpringBoot、Web后端基础练习案例
 - **2026-07-29**: 新增MySQL建表DDL练习脚本，学习数据表约束与表结构操作
 - **2026-07-30**：新增MySQL DDL/DML/DQL练习脚本，完善数据表字段规范，更新学习进度
 - **2026-07-31**: JDBC练习案例，掌握预编译SQL、实体封装；代码脱敏处理，移除明文数据库凭证
+- **2026-08-03**: 新增MyBatis练习案例，熟悉注解与XML两种SQL编写形式
 
 ## 📄 License
 MIT
