@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.example</groupId>
-    <artifactId>springboot_web_quickstart</artifactId>
+    <artifactId>springboot-web-quickstart</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>springboot_web_quickstart</name>
     <description>springboot_web_quickstart</description>
